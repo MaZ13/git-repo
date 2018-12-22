@@ -1,4 +1,5 @@
-print ('Hello World')
-print ('привет всем')
-print ('hello my dear friend')
-print ('glad 2 see')
+<<<<<<< HEAD
+print ('Hello World;')
+print ('привет всем;')
+print ('hello my dear friend;')
+print ('glad 2 see;')
